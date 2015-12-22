@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  mylittlemonster
 //
-//  Created by DANIEL OREILLY on 12/22/15.
+//  Created by DANIEL T OREILLY on 12/22/15.
 //  Copyright © 2015 DANIEL OREILLY. All rights reserved.
 //
 
