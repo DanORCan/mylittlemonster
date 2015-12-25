@@ -12,6 +12,7 @@
 		4397DE011C29343C007B3ADD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4397DDFF1C29343C007B3ADD /* Main.storyboard */; };
 		4397DE031C29343C007B3ADD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4397DE021C29343C007B3ADD /* Assets.xcassets */; };
 		4397DE061C29343C007B3ADD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4397DE041C29343C007B3ADD /* LaunchScreen.storyboard */; };
+		43B942551C2D845A003DA021 /* DragImg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43B942541C2D845A003DA021 /* DragImg.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4397DE021C29343C007B3ADD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4397DE051C29343C007B3ADD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4397DE071C29343C007B3ADD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43B942541C2D845A003DA021 /* DragImg.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragImg.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				4397DDFB1C29343C007B3ADD /* AppDelegate.swift */,
 				4397DDFD1C29343C007B3ADD /* ViewController.swift */,
+				43B942541C2D845A003DA021 /* DragImg.swift */,
 				4397DDFF1C29343C007B3ADD /* Main.storyboard */,
 				4397DE021C29343C007B3ADD /* Assets.xcassets */,
 				4397DE041C29343C007B3ADD /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				43B942551C2D845A003DA021 /* DragImg.swift in Sources */,
 				4397DDFE1C29343C007B3ADD /* ViewController.swift in Sources */,
 				4397DDFC1C29343C007B3ADD /* AppDelegate.swift in Sources */,
 			);
@@ -287,6 +291,7 @@
 				4397DE0C1C29343C007B3ADD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
