@@ -16,10 +16,10 @@ class MonsterImg:  UIImageView {
     
     required init?(coder aDecoder: NSCoder) {
         super.init(coder: aDecoder)
-        playIdleAnimaiton()
+        playIdleAnimation()
     }
     
-    func playIdleAnimaiton() {
+    func playIdleAnimation() {
         
         self.image = UIImage(named: "idle1.png")
         
